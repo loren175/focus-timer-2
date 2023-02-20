@@ -35,22 +35,18 @@ main {
   align-items: center;
 }
 
-.hide {
-  display: none;
-}
-
 button {
   background-color: transparent;
   border: none;
   cursor: pointer;
 }
 
-/* .forest svg path,
-.coffee svg path,
-.campfire svg path,
-.rainy svg path {
+.forest svg path path,
+.coffee svg path path,
+.campfire svg path path,
+.rainy svg path path {
   fill: var(--btn-primary);
-} */
+} 
 
 button svg {
   width: clamp(3.2rem, 2rem + 12vw, 6.4rem);
@@ -58,7 +54,6 @@ button svg {
 
 #timer {
   font-size: 15rem;
-
   color: var(--tt-primary);
 }
 
@@ -77,7 +72,7 @@ button svg {
 #wrapper {
   position: absolute;
   top: 200px;
-  right: 300px;
+  right: 200px;
 }
 
 .features {
