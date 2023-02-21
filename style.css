@@ -45,7 +45,7 @@ button {
 .coffee svg path path,
 .campfire svg path path,
 .rainy svg path path {
-  fill: var(--btn-primary);
+  fill: var(--btn-secondary);
 } 
 
 button svg {
