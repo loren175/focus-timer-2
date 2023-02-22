@@ -6,7 +6,7 @@
 
 Projeto feito utilizando os conceitos de HTML, CSS e JavaScript para criar um Temporizador com sons ambientes selecionáveis através do curso da RocketSeat "Explorer".
 
-## [🔗 Clique aqui para acessar o projeto](https://loren175.github.io/focus-timer)
+## [🔗 Clique aqui para acessar o projeto](https://loren175.github.io/focus-timer-2)
 
 #
 
